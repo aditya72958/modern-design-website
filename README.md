@@ -20,8 +20,6 @@ A responsive website built using HTML and CSS, featuring a clean user interface,
 
 ## 📸 Project Preview
 
-## 📸 Project Preview
-
 ### Homepage
 ![Homepage](output-01.png)
 
