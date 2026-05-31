@@ -26,13 +26,13 @@ A responsive website built using HTML and CSS, featuring a clean user interface,
 ![Homepage](output-01.png)
 
 ### Cards Section
-![Cards](images/cards.png)
+![Cards](output-02.png)
 
 ### Navigation Bar
-![Navigation](images/navbar.png)
+![Navigation](output-04.png)
 
 ### Responsive Website
-![Sidebar](images/sidebar.png)
+![Sidebar](output-05.png)
 
 ## 👨‍💻 Author
 
