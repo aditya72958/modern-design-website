@@ -20,7 +20,19 @@ A responsive website built using HTML and CSS, featuring a clean user interface,
 
 ## 📸 Project Preview
 
-Add screenshots of the homepage and key sections here.
+## 📸 Project Preview
+
+### Homepage
+![Homepage](output-01.png)
+
+### Cards Section
+![Cards](images/cards.png)
+
+### Navigation Bar
+![Navigation](images/navbar.png)
+
+### Responsive Website
+![Sidebar](images/sidebar.png)
 
 ## 👨‍💻 Author
 
