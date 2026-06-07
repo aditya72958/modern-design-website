@@ -28,6 +28,7 @@
 }
 .iimag{
     border-radius: 15px;
+    width: 100%;
 }
 #first_page{
     position: relative;
